@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HermenegildoDaCruz
-- 👀 I’m interested in in technologies of programming languages ​​and computer networks
+- 👀 I’m interested in technologies of programming languages ​​and computer networks
 - 🌱 I’m currently learning python language, html, css
 - 💞️ I want to collaborate with the evolution of communication technologies and much more
 - 📫 How to reach me? contact me on my instagram
