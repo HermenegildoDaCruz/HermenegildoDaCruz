@@ -1,19 +1,14 @@
 
 
-### 🥷🏿Hello👋🏿! I'm Hermenegildo da Cruz and i AM 19 years OLD
+<h1>🥷🏿Hey👋🏿! I'm <strong>Hermenegildo da Cruz</strong> and i AM 19 years OLD</h1>
+
+<p>🏌🏿‍♂️I want to improve my software development skills and  become a very skilled programmer.</p>
+<p>👨🏿‍💻My favorite programming language is Python.</p>
+<p>
+💯Just in the learning.</p>
+<h2>🌐Social medias:</h2>
 
 
-
-### 🏌🏿‍♂️I want to improve my software development skills and  become a very skilled programmer.
-
-
-### 👨🏿‍💻My favorite programming language is Python.
-
-### 💯Just in the learning.
-
-
-
-## 🌐Social medias:
 
 [![Instagram](   https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dealmeidahopson/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100081835096467)
